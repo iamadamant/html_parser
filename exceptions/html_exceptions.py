@@ -1,0 +1,2 @@
+class NewExc(Exception):
+    pass
